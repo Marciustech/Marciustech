@@ -1,6 +1,3 @@
-<p align="center" style="font-family: 'Courier New', monospace">
-  <img src="https://github.com/Marciustech.png" alt="Marcius" width="100" height="100" style="border-radius: 50%;" />
-</p>
 <h1 align="center" style="font-family: 'Courier New', monospace">Welcome to Marcius' GitHub Profile</h1>
 <p align="center" style="font-family: 'Courier New', monospace">
   Good job discovering my GitHub profile. I go by the ID Marcius, and here you can find my coding journey, projects and connect with me.
