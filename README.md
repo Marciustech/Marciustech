@@ -1,19 +1,21 @@
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Marciustech&left_color=green&right_color=red)
 
 <div align="center">
-  <h2>📊 Coding Feats 📊</h2>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Marciustech&show_icons=true&theme=tokyonight" alt="GitHub Stats (Dark Mode)" width="49%" />
-  </div>
-
-  <div>
-    <a href="https://github.com/Marciustech/convoychat">
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marciustech&theme=tokyonight&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
-    </a>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Marciustech&show_icons=true&theme=tokyonight" alt="GitHub Stats (Dark Mode)" />
+    </div>
+    <div style="flex: 1;">
+      <a href="https://github.com/Marciustech/convoychat">
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marciustech&theme=tokyonight&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+      </a>
+    </div>
   </div>
 </div>
 
+
 <div align="center">
+  <h2> </h2>
   <hr>
 
 [<img src="https://github.com/Marciustech.png" width="100" height="100" style="border-radius: 50%;">](https://github.com/Marciustech)
