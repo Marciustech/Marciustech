@@ -2,8 +2,8 @@
 
 <div align="center">
 <h2></h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Marciustech&show_icons=true&theme=tokyonight" alt="GitHub Stats (Dark Mode)" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marciustech&theme=tokyonight&layout=compact&langs_count=8&card_width=320" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marciustech&show_icons=true&theme=tokyonight" alt="GitHub Stats (Dark Mode)" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marciustech&theme=tokyonight&layout=compact&langs_count=8&card_width=320" alt="Top Languages" width="47%" />
 </div>
 
 <div align="center">
