@@ -1,4 +1,4 @@
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Marciustech&left_color=green&right_color=red)
+![Visits](https://visitor-badge.glitch.me/badge?page_id=Marciustech.Marciustech&left_color=green&right_color=red)
 
 <div align="center">
 <h2></h2>
