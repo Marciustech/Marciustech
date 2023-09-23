@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Courier New', monospace">Welcome to Marcius' GitHub Profile</h1>
 <p align="center" style="font-family: 'Courier New', monospace">
-  Good job discovering my GitHub profile. I go by the ID Marcius, and here you can find my coding journey, projects and connect with me.
+  Good job discovering my GitHub profile. I go by the ID Marcius, and here you can find my projects and connect with me.
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace">
@@ -26,7 +26,7 @@
 
 <h2 align="center" style="font-family: 'Courier New', monospace">About Me</h2>
 <p align="center">
-  I'm Marcius, a passionate developer trying to conquer the world by coding and building cool stuff. You cab see what I've been working on and feel free to contribute.
+  I'm Marcius, a passionate developer trying to conquer the world by coding and building cool stuff. You can see what I've been working on and feel free to contribute.
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace">
