@@ -30,9 +30,11 @@
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Marciustech.Marciustech" alt="visitor badge" />
+  <img src="https://wakatime.com/badge/user/17600fb4-ba26-444d-8050-4bd57d232412.svg" alt="wakatime badge" />
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace">
   Thank you for stopping by!
 </p>
+
+
