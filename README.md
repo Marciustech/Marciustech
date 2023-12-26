@@ -4,11 +4,11 @@
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace">
-  <a href="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=tokyonight&rank_icon=percentile">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=tokyonight&rank_icon=default" alt="GitHub Stats (Dark Mode)" />
+  <a href="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=percentile">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=default" alt="GitHub Stats (Dark Mode)" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=tokyonight&layout=compact&langs_count=8">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=tokyonight&layout=donut&langs_count=4" alt="Top Languages" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=compact&langs_count=8">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=donut&langs_count=4" alt="Top Languages" />
   </a>
 </p>
 
