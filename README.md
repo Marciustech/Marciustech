@@ -5,10 +5,10 @@
 
 <p align="center" style="font-family: 'Courier New', monospace">
   <a href="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=tokyonight&rank_icon=percentile">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats (Dark Mode)" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=tokyonight&rank_icon=default" alt="GitHub Stats (Dark Mode)" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=tokyonight&layout=compact&langs_count=8">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=tokyonight&layout=donut&langs_count=4" alt="Top Languages" />
   </a>
 </p>
 
