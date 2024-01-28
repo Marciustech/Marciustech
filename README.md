@@ -3,6 +3,7 @@
   Good job discovering my GitHub profile. I go by the ID Marcius, and here you can find my projects and connect with me.
 </p>
 
+
 <p align="center" style="font-family: 'Courier New', monospace">
   <a href="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=percentile">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=percentile" alt="GitHub Stats (Dark Mode)" />
@@ -29,8 +30,8 @@
 </p>
 
 <h2 align="center" style="font-family: 'Courier New', monospace">About Me</h2>
-<p align="center">
-  I'm Marcius, a passionate developer trying to conquer the world by coding and building cool stuff. You can see what I've been working on and feel free to contribute.
+<p align="center"> 
+  I do some coding and I like to read Wuxia novels
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace">
