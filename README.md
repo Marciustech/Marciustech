@@ -22,9 +22,6 @@ disclaimer: why so much zig code? Find out <a href="https://ziglang.org/learn/wh
   You can reach out to me through the following channels:
 </p>
 <p align="center" style="font-family: 'Courier New', monospace">
-  <a href="https://www.linkedin.com/in/marcius-silva">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://discordapp.com/users/830431949671104582">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white" alt="Discord" />
   </a>
