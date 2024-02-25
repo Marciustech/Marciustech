@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Courier New', monospace">Welcome to Marcius' GitHub Profile</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace">Welcome</h1>
 <p align="center" style="font-family: 'Courier New', monospace">
   Good job discovering my GitHub profile. I go by the ID Marcius, and here you can find my projects and connect with me.
 </p>
