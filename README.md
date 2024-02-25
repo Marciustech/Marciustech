@@ -5,12 +5,16 @@
 
 
 <p align="center" style="font-family: 'Courier New', monospace">
-  <a href="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=rank">
+  <a href="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=percentile">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=rank" alt="GitHub Stats (Dark Mode)" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=compact&langs_count=8">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=donut&langs_count=4" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=donut&langs_count=3" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center"> 
+disclaimer: why so much zig code? Find out <a href="https://ziglang.org/learn/why_zig_rust_d_cpp/">here</a>
 </p>
 
 <h2 align="center" style="font-family: 'Courier New', monospace">Contact Me</h2>
