@@ -8,7 +8,7 @@
   <a href="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=percentile">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=coding-agent&show_icons=true&theme=midnight-purple&rank_icon=rank" alt="GitHub Stats (Dark Mode)" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=compact&langs_count=8">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=compact&langs_count=5">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-agent&theme=midnight-purple&layout=donut&langs_count=3" alt="Top Languages" />
   </a>
 </p>
@@ -32,7 +32,7 @@ why so much zig code? Find out <a href="https://ziglang.org/learn/why_zig_rust_d
 
 <h2 align="center" style="font-family: 'Courier New', monospace">About Me</h2>
 <p align="center"> 
-  I do some coding and I like to read Wuxia novels
+  I do some software so good it's a secret, I mostly code in <a href="https://ziglang.org/learn/overview/">Zig</a> and I like to read Wuxia novels and old books
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace">
