@@ -30,17 +30,10 @@ why so much zig code? Find out <a href="https://ziglang.org/learn/why_zig_rust_d
   </a>
 </p>
 
-<h2 align="left" style="font-family: 'Courier New', monospace">About Me</h2>
-<p align="left"> 
-  I do some software so good it's a secret, I mostly code in <a href="https://ziglang.org/learn/overview/">Zig</a> and I like to read Wuxia novels and old books
-</p>
+<hr>
 
 <p align="left" style="font-family: 'Courier New', monospace">
   <img src="https://wakatime.com/badge/user/17600fb4-ba26-444d-8050-4bd57d232412.svg" alt="wakatime badge" />
-</p>
-
-<p align="left" style="font-family: 'Courier New', monospace">
-  Thank you for stopping by!
 </p>
 
 
