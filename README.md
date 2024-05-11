@@ -1,6 +1,6 @@
 <h1 align="left" style="font-family: 'Courier New', monospace">Welcome</h1>
 <p align="left" style="font-family: 'Courier New', monospace">
-  Good job discovering my GitHub profile. I go by the ID Marcius, and here you can find my projects and connect with me.
+  I go by the ID Marcius.
 </p>
 
 
@@ -14,20 +14,24 @@
 </p>
 
 <p align="left"> 
-why so much zig code? Find out <a href="https://ziglang.org/learn/why_zig_rust_d_cpp/">here</a>
+why so much zig code? Find out <a href="https://ziglang.org/learn/why_zig_rust_d_cpp/">here</a>.
 </p>
 
 <h2 align="left" style="font-family: 'Courier New', monospace">Contact Me</h2>
 <p align="left" style="font-family: 'Courier New', monospace">
-  You can reach out to me through the following channels:
+  Reach out to me and find out more:
 </p>
 <p align="left" style="font-family: 'Courier New', monospace">
   <a href="https://discordapp.com/users/830431949671104582">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:mcmrcs@pm.me">
-    <img src="https://img.shields.io/badge/-Email-6600cc?style=flat&labelColor=6600cc&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-6600cc?style=flat&labelColor=6600cc&logo=#EA4335&logoColor=white" alt="Email" />
   </a>
+  <a href="coding-agent.me">
+    <img src="https://img.shields.io/badge/-Website-F7A41D?style=flat&logo=About.me&logoColor=white" alt="Email" />
+  </a>
+  
 </p>
 
 <hr>
